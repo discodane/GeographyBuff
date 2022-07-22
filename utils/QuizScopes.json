@@ -1,0 +1,30 @@
+[
+  {
+    "label": "Africa",
+    "value": "africa"
+  },
+  {
+    "label": "Asia",
+    "value": "asia"
+  },
+  {
+    "label": "Europe",
+    "value": "european"
+  },
+  {
+    "label": "North America",
+    "value": "na"
+  },
+  {
+    "label": "Oceania",
+    "value": "oceania"
+  },
+  {
+    "label": "South America",
+    "value": "sa"
+  },
+  {
+    "label": "World",
+    "value": "world"
+  }
+]
